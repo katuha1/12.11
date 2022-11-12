@@ -1,0 +1,19 @@
+{
+  "name": "ingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "logger-service": "^1.0.2"
+  }
+}
